@@ -1,0 +1,12 @@
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\bin\Debug\GoogleAnalyticsEvents2.exe.config
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\bin\Debug\GoogleAnalyticsEvents2.exe
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\bin\Debug\GoogleAnalyticsEvents2.pdb
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\bin\Debug\RestSharp.dll
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\bin\Debug\RestSharp.xml
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\obj\Debug\GoogleAnalyticsEvents2.csproj.AssemblyReference.cache
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\obj\Debug\GoogleAnalyticsEvents2.csproj.CoreCompileInputs.cache
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\obj\Debug\GoogleAnalyticsEvents2.csproj.CopyComplete
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\obj\Debug\GoogleAnalyticsEvents2.exe
+C:\Users\Franco Glovasa\source\repos\GoogleAnalyticsEvents2\GoogleAnalyticsEvents2\obj\Debug\GoogleAnalyticsEvents2.pdb
